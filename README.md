@@ -17,3 +17,5 @@ I personally don't have a usecase for this anymore, so if it's useful for you pl
 Altough I do have much more experience in developing now compared to my time in school, I don't have the time continuing this project.
 BUT: I'd be happy to see, if someone continues or just updates this project. I think it could be a cool thing. ;-)
 
+#### Sidemark
+It was made for Window 7, don't know if it's compatible with newer versions.
