@@ -1,7 +1,7 @@
 # WindowChanger
 A tool which can automatically change the foreground window depending on times or intervals on Microsoft Windows Machines.
 
-It has been developed for the graduation ball of the Higher Technical Collage Braunau (http://www.htl-braunau.at) in the year 2013 in let's say quite less time. 
+It has been developed for the graduation ball of the Higher Technical College Braunau (http://www.htl-braunau.at) in the year 2013 in let's say quite less time. 
 Probably it was my first "project" in C#, so have fun reading this lines of code - even the comments are in german. :D
 
 ## What is it for?
